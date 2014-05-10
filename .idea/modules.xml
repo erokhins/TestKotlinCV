@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/KotlinCV/KotlinCV.iml" filepath="$PROJECT_DIR$/KotlinCV/KotlinCV.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinCV/OpenCV/OpenCV.iml" filepath="$PROJECT_DIR$/KotlinCV/OpenCV/OpenCV.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestKotlinCV.iml" filepath="$PROJECT_DIR$/TestKotlinCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinCV/Utils/Utils.iml" filepath="$PROJECT_DIR$/KotlinCV/Utils/Utils.iml" />
     </modules>
   </component>
 </project>
