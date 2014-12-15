@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ForTest/ForTest.iml" filepath="$PROJECT_DIR$/ForTest/ForTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinCV/Images/Images.iml" filepath="$PROJECT_DIR$/KotlinCV/Images/Images.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinCV/KotlinCV.iml" filepath="$PROJECT_DIR$/KotlinCV/KotlinCV.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinCV/OpenCV/OpenCV.iml" filepath="$PROJECT_DIR$/KotlinCV/OpenCV/OpenCV.iml" />

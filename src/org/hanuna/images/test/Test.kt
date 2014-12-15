@@ -9,6 +9,8 @@ import org.opencv.core.CvType
  */
 
 fun main(args: Array<String>) {
+    println((-14) % 10)
+
     loadOpenCV()
     Mat(100, 100, CvType.CV_8UC3)
 }
